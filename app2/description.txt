@@ -1,0 +1,2 @@
+App 2: Webmap
+Translates coordinates of Volcanoes in the US into a map. Can be swapped for other coordinates (landmarks, mountains, cities, etc.)
