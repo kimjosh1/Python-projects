@@ -1,3 +1,0 @@
-App 3: Test Website
-Website created with Flask.
-Full results can be seen at this website: http://thisisatestbyjoshua.herokuapp.com/
