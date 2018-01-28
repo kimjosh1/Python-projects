@@ -1,0 +1,2 @@
+App 1: Dictionary
+Detects a word input and returns a (approximate) definition.
